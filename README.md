@@ -49,19 +49,6 @@ Overall, the analysis supports three practical decisions:
 - **Which suppliers require performance review?**
 - **Which data issues must be resolved before planning decisions are trusted?**
 
-### What happened?
-
-Identify stock, supplier and demand exceptions.
-
-### Why did it happen?
-
-Analyse warehouse, supplier and product-level drivers.
-
-### What should we do?
-
-Prioritise replenishment, supplier review and data-quality actions.
-
-
 ## Key Findings
 
 ### 1. Inventory Position
