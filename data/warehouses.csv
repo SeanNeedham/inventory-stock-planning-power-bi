@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,region,capacity_units
+WH01,Manchester DC,North West,310000
+WH02,Birmingham DC,West Midlands,285000
+WH03,Bristol DC,South West,225000
+WH04,Leeds DC,Yorkshire,245000
+WH05,Milton Keynes DC,South East,340000

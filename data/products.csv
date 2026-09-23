@@ -1,0 +1,1001 @@
+product_id,product_name,category,unit_cost_gbp,case_size,active_flag,primary_supplier_id
+SKU0001,Household Product 0001,Household,4.56,6,Y,SUP034
+SKU0002,Frozen Product 0002,Frozen,13.47,10,Y,SUP056
+SKU0003,Household Product 0003,Household,7.56,10,Y,SUP029
+SKU0004,Beverages Product 0004,Beverages,6.15,12,Y,SUP023
+SKU0005,Ambient Food Product 0005,Ambient Food,6.9,8,Y,SUP023
+SKU0006,Personal Care Product 0006,Personal Care,8.54,1,Y,SUP053
+SKU0007,Household Product 0007,Household,11.03,12,Y,SUP046
+SKU0008,Household Product 0008,Household,3.86,8,Y,SUP010
+SKU0009,Ambient Food Product 0009,Ambient Food,3.75,12,Y,SUP030
+SKU0010,Frozen Product 0010,Frozen,15.15,6,Y,SUP023
+SKU0011,Chilled Product 0011,Chilled,5.65,1,Y,SUP039
+SKU0012,Personal Care Product 0012,Personal Care,2.94,6,Y,UNKNOWN
+SKU0013,Beverages Product 0013,Beverages,9.86,10,Y,SUP043
+SKU0014,Household Product 0014,Household,9.99,10,Y,SUP045
+SKU0015,Frozen Product 0015,Frozen,2.73,24,Y,SUP014
+SKU0016,Ambient Food Product 0016,Ambient Food,8.58,8,Y,SUP010
+SKU0017,Beverages Product 0017,Beverages,11.92,12,Y,SUP038
+SKU0018,Ambient Food Product 0018,Ambient Food,9.42,12,Y,SUP016
+SKU0019,Household Product 0019,Household,11.14,1,Y,SUP057
+SKU0020,Beverages Product 0020,Beverages,2.97,12,Y,SUP047
+SKU0021,Household Product 0021,Household,9.16,8,Y,SUP058
+SKU0022,Chilled Product 0022,Chilled,6.07,10,Y,SUP033
+SKU0023,Personal Care Product 0023,Personal Care,5.4,6,N,SUP057
+SKU0024,Personal Care Product 0024,Personal Care,13.01,12,Y,SUP001
+SKU0025,Household Product 0025,Household,19.33,24,Y,SUP018
+SKU0026,Ambient Food Product 0026,Ambient Food,23.72,1,Y,SUP001
+SKU0027,Frozen Product 0027,Frozen,17.37,12,Y,UNKNOWN
+SKU0028,Ambient Food Product 0028,Ambient Food,6.88,12,Y,SUP031
+SKU0029,Ambient Food Product 0029,Ambient Food,9.29,8,Y,SUP018
+SKU0030,Beverages Product 0030,Beverages,12.16,12,Y,SUP019
+SKU0031,Household Product 0031,Household,7.99,12,Y,SUP039
+SKU0032,Personal Care Product 0032,Personal Care,8.04,24,Y,SUP011
+SKU0033,Chilled Product 0033,Chilled,12.62,24,Y,SUP031
+SKU0034,Chilled Product 0034,Chilled,7.11,1,N,SUP037
+SKU0035,Frozen Product 0035,Frozen,4.6,10,Y,SUP015
+SKU0036,Ambient Food Product 0036,Ambient Food,5.64,12,Y,SUP014
+SKU0037,Ambient Food Product 0037,Ambient Food,11.16,6,Y,SUP022
+SKU0038,Frozen Product 0038,Frozen,7.4,8,Y,SUP036
+SKU0039,Ambient Food Product 0039,Ambient Food,9.22,24,Y,SUP016
+SKU0040,Beverages Product 0040,Beverages,11.42,1,Y,SUP023
+SKU0041,Frozen Product 0041,Frozen,5.79,10,Y,SUP033
+SKU0042,Household Product 0042,Household,12.08,24,Y,SUP012
+SKU0043,Beverages Product 0043,Beverages,9.45,8,Y,SUP035
+SKU0044,Chilled Product 0044,Chilled,3.31,10,Y,SUP009
+SKU0045,Household Product 0045,Household,18.87,24,Y,SUP009
+SKU0046,Household Product 0046,Household,5.34,10,Y,SUP015
+SKU0047,Chilled Product 0047,Chilled,2.52,6,Y,SUP018
+SKU0048,Chilled Product 0048,Chilled,3.75,1,Y,SUP002
+SKU0049,Beverages Product 0049,Beverages,3.81,24,Y,SUP058
+SKU0050,Ambient Food Product 0050,Ambient Food,7.64,8,Y,SUP019
+SKU0051,Ambient Food Product 0051,Ambient Food,6.18,12,Y,SUP049
+SKU0052,Ambient Food Product 0052,Ambient Food,5.94,6,Y,SUP055
+SKU0053,Household Product 0053,Household,11.05,10,Y,SUP049
+SKU0054,Beverages Product 0054,Beverages,9.22,24,Y,SUP050
+SKU0055,Beverages Product 0055,Beverages,9.07,12,Y,SUP007
+SKU0056,Household Product 0056,Household,9.64,24,Y,SUP023
+SKU0057,Frozen Product 0057,Frozen,11.03,6,Y,SUP045
+SKU0058,Beverages Product 0058,Beverages,1.88,12,Y,SUP035
+SKU0059,Ambient Food Product 0059,Ambient Food,5.83,24,Y,SUP001
+SKU0060,Ambient Food Product 0060,Ambient Food,1.79,10,Y,SUP035
+SKU0061,Beverages Product 0061,Beverages,7.56,8,Y,SUP049
+SKU0062,Frozen Product 0062,Frozen,7.37,24,Y,SUP050
+SKU0063,Beverages Product 0063,Beverages,14.58,10,Y,SUP024
+SKU0064,Household Product 0064,Household,15.99,12,Y,SUP015
+SKU0065,Beverages Product 0065,Beverages,8.43,24,Y,SUP019
+SKU0066,Beverages Product 0066,Beverages,5.34,6,Y,SUP018
+SKU0067,Beverages Product 0067,Beverages,10.13,8,Y,SUP021
+SKU0068,Chilled Product 0068,Chilled,5.24,1,Y,SUP019
+SKU0069,Ambient Food Product 0069,Ambient Food,7.38,10,Y,SUP028
+SKU0070,Frozen Product 0070,Frozen,14.03,6,Y,SUP003
+SKU0071,Ambient Food Product 0071,Ambient Food,5.14,12,Y,SUP017
+SKU0072,Chilled Product 0072,Chilled,12.47,6,Y,SUP019
+SKU0073,Household Product 0073,Household,11.48,12,Y,SUP010
+SKU0074,Ambient Food Product 0074,Ambient Food,3.97,8,Y,SUP053
+SKU0075,Ambient Food Product 0075,Ambient Food,13.92,8,Y,SUP041
+SKU0076,Chilled Product 0076,Chilled,11.64,8,Y,SUP055
+SKU0077,Chilled Product 0077,Chilled,7.9,12,Y,SUP034
+SKU0078,Beverages Product 0078,Beverages,4.5,10,Y,SUP007
+SKU0079,Beverages Product 0079,Beverages,4.23,8,Y,SUP055
+SKU0080,Household Product 0080,Household,5.21,24,Y,SUP028
+SKU0081,Beverages Product 0081,Beverages,10.51,12,Y,SUP042
+SKU0082,Chilled Product 0082,Chilled,3.97,6,Y,SUP023
+SKU0083,Household Product 0083,Household,9.82,24,Y,SUP030
+SKU0084,Ambient Food Product 0084,Ambient Food,3.3,8,Y,SUP030
+SKU0085,Ambient Food Product 0085,Ambient Food,6.47,1,Y,SUP018
+SKU0086,Ambient Food Product 0086,Ambient Food,7.93,12,Y,SUP034
+SKU0087,Household Product 0087,Household,36.21,6,Y,SUP045
+SKU0088,Frozen Product 0088,Frozen,3.02,6,Y,SUP002
+SKU0089,Ambient Food Product 0089,Ambient Food,19.24,12,Y,SUP008
+SKU0090,Frozen Product 0090,Frozen,8.14,6,Y,SUP051
+SKU0091,Ambient Food Product 0091,Ambient Food,9.65,24,Y,SUP035
+SKU0092,Beverages Product 0092,Beverages,7.98,24,Y,SUP059
+SKU0093,Frozen Product 0093,Frozen,9.87,12,Y,SUP037
+SKU0094,Chilled Product 0094,Chilled,6.69,12,Y,SUP040
+SKU0095,Chilled Product 0095,Chilled,19.01,12,Y,SUP054
+SKU0096,Beverages Product 0096,Beverages,5.49,24,Y,SUP040
+SKU0097,Chilled Product 0097,Chilled,15.42,8,Y,SUP020
+SKU0098,Ambient Food Product 0098,Ambient Food,4.86,6,Y,SUP032
+SKU0099,Ambient Food Product 0099,Ambient Food,7.11,12,Y,SUP015
+SKU0100,Personal Care Product 0100,Personal Care,3.68,12,Y,SUP021
+SKU0101,Personal Care Product 0101,Personal Care,9.93,6,Y,SUP041
+SKU0102,Beverages Product 0102,Beverages,18.9,12,Y,SUP009
+SKU0103,Chilled Product 0103,Chilled,7.03,1,Y,SUP041
+SKU0104,Personal Care Product 0104,Personal Care,6.5,24,Y,SUP036
+SKU0105,Household Product 0105,Household,3.58,8,Y,SUP019
+SKU0106,Household Product 0106,Household,6.37,1,Y,SUP003
+SKU0107,Frozen Product 0107,Frozen,2.62,6,Y,SUP043
+SKU0108,Chilled Product 0108,Chilled,4.08,6,Y,SUP050
+SKU0109,Ambient Food Product 0109,Ambient Food,8.56,8,Y,SUP044
+SKU0110,Personal Care Product 0110,Personal Care,17.42,1,Y,SUP026
+SKU0111,Frozen Product 0111,Frozen,45.88,8,Y,SUP040
+SKU0112,Ambient Food Product 0112,Ambient Food,5.05,6,Y,SUP025
+SKU0113,Chilled Product 0113,Chilled,18.78,8,Y,SUP022
+SKU0114,Beverages Product 0114,Beverages,8.66,10,Y,SUP020
+SKU0115,Ambient Food Product 0115,Ambient Food,6.7,8,Y,SUP013
+SKU0116,Household Product 0116,Household,9.79,8,Y,SUP059
+SKU0117,Household Product 0117,Household,7.69,6,Y,SUP040
+SKU0118,Household Product 0118,Household,7.94,1,Y,SUP011
+SKU0119,Frozen Product 0119,Frozen,5.67,6,Y,SUP052
+SKU0120,Beverages Product 0120,Beverages,2.98,12,Y,SUP010
+SKU0121,Beverages Product 0121,Beverages,2.71,24,Y,SUP036
+SKU0122,Beverages Product 0122,Beverages,11.3,24,Y,SUP010
+SKU0123,Ambient Food Product 0123,Ambient Food,6.17,12,Y,SUP022
+SKU0124,Frozen Product 0124,Frozen,5.02,12,Y,SUP040
+SKU0125,Ambient Food Product 0125,Ambient Food,7.43,8,Y,SUP060
+SKU0126,Frozen Product 0126,Frozen,12.39,12,Y,SUP060
+SKU0127,Chilled Product 0127,Chilled,8.31,12,Y,SUP054
+SKU0128,Ambient Food Product 0128,Ambient Food,4.82,24,Y,SUP015
+SKU0129,Ambient Food Product 0129,Ambient Food,16.4,24,Y,SUP006
+SKU0130,Beverages Product 0130,Beverages,20.62,10,Y,SUP055
+SKU0131,Ambient Food Product 0131,Ambient Food,10.19,12,N,SUP056
+SKU0132,Personal Care Product 0132,Personal Care,13.91,24,Y,SUP017
+SKU0133,Beverages Product 0133,Beverages,16.56,8,Y,SUP002
+SKU0134,Chilled Product 0134,Chilled,15.4,24,Y,SUP039
+SKU0135,Beverages Product 0135,Beverages,11.01,6,Y,SUP005
+SKU0136,Ambient Food Product 0136,Ambient Food,10.9,24,Y,SUP003
+SKU0137,Personal Care Product 0137,Personal Care,10.36,12,Y,SUP057
+SKU0138,Frozen Product 0138,Frozen,3.62,6,Y,SUP030
+SKU0139,Household Product 0139,Household,11.65,12,Y,SUP007
+SKU0140,Ambient Food Product 0140,Ambient Food,3.06,1,Y,SUP040
+SKU0141,Frozen Product 0141,Frozen,4.41,12,Y,SUP023
+SKU0142,Frozen Product 0142,Frozen,17.24,12,Y,SUP033
+SKU0143,Personal Care Product 0143,Personal Care,12.76,12,Y,SUP054
+SKU0144,Beverages Product 0144,Beverages,19.43,24,Y,SUP015
+SKU0145,Frozen Product 0145,Frozen,6.19,6,Y,SUP039
+SKU0146,Chilled Product 0146,Chilled,3.49,8,Y,SUP050
+SKU0147,Chilled Product 0147,Chilled,6.32,10,Y,SUP026
+SKU0148,Frozen Product 0148,Frozen,7.9,1,Y,SUP059
+SKU0149,Frozen Product 0149,Frozen,7.78,10,N,SUP027
+SKU0150,Ambient Food Product 0150,Ambient Food,15.44,8,Y,SUP028
+SKU0151,Household Product 0151,Household,5.84,10,Y,SUP054
+SKU0152,Personal Care Product 0152,Personal Care,9.29,10,Y,SUP039
+SKU0153,Ambient Food Product 0153,Ambient Food,3.89,24,Y,SUP053
+SKU0154,Beverages Product 0154,Beverages,9.9,8,Y,SUP048
+SKU0155,Ambient Food Product 0155,Ambient Food,7.4,24,Y,SUP043
+SKU0156,Beverages Product 0156,Beverages,4.54,10,Y,SUP015
+SKU0157,Chilled Product 0157,Chilled,6.34,8,Y,SUP024
+SKU0158,Beverages Product 0158,Beverages,6.56,12,Y,SUP052
+SKU0159,Household Product 0159,Household,6.2,10,N,SUP037
+SKU0160,Household Product 0160,Household,23.37,6,Y,SUP017
+SKU0161,Ambient Food Product 0161,Ambient Food,6.93,12,Y,SUP020
+SKU0162,Personal Care Product 0162,Personal Care,6.31,6,N,SUP047
+SKU0163,Ambient Food Product 0163,Ambient Food,1.89,8,Y,SUP011
+SKU0164,Ambient Food Product 0164,Ambient Food,4.13,12,Y,SUP007
+SKU0165,Beverages Product 0165,Beverages,6.23,10,Y,SUP046
+SKU0166,Chilled Product 0166,Chilled,4.73,24,Y,SUP018
+SKU0167,Household Product 0167,Household,18.14,6,Y,SUP046
+SKU0168,Household Product 0168,Household,6.64,24,Y,SUP033
+SKU0169,Chilled Product 0169,Chilled,17.07,12,Y,SUP060
+SKU0170,Personal Care Product 0170,Personal Care,7.69,24,Y,SUP032
+SKU0171,Chilled Product 0171,Chilled,7.57,24,Y,SUP053
+SKU0172,Frozen Product 0172,Frozen,6.97,6,Y,SUP052
+SKU0173,Chilled Product 0173,Chilled,7.41,12,Y,SUP013
+SKU0174,Personal Care Product 0174,Personal Care,22.58,6,Y,SUP060
+SKU0175,Ambient Food Product 0175,Ambient Food,1.64,24,Y,SUP045
+SKU0176,Ambient Food Product 0176,Ambient Food,2.01,12,Y,SUP007
+SKU0177,Frozen Product 0177,Frozen,5.19,8,Y,SUP001
+SKU0178,Personal Care Product 0178,Personal Care,7.46,24,Y,SUP017
+SKU0179,Personal Care Product 0179,Personal Care,11.57,6,Y,SUP001
+SKU0180,Household Product 0180,Household,10.05,12,Y,SUP022
+SKU0181,Personal Care Product 0181,Personal Care,5.76,12,Y,SUP060
+SKU0182,Personal Care Product 0182,Personal Care,14.33,1,Y,SUP029
+SKU0183,Frozen Product 0183,Frozen,14.43,12,Y,UNKNOWN
+SKU0184,Chilled Product 0184,Chilled,8.33,24,Y,SUP030
+SKU0185,Household Product 0185,Household,13.81,1,Y,SUP014
+SKU0186,Beverages Product 0186,Beverages,8.82,12,Y,SUP052
+SKU0187,Chilled Product 0187,Chilled,5.13,6,Y,SUP006
+SKU0188,Ambient Food Product 0188,Ambient Food,11.63,12,Y,SUP047
+SKU0189,Household Product 0189,Household,7.94,6,Y,SUP027
+SKU0190,Chilled Product 0190,Chilled,7.4,24,Y,SUP002
+SKU0191,Personal Care Product 0191,Personal Care,19.25,24,Y,SUP041
+SKU0192,Ambient Food Product 0192,Ambient Food,1.5,6,Y,SUP028
+SKU0193,Ambient Food Product 0193,Ambient Food,2.94,8,Y,SUP047
+SKU0194,Household Product 0194,Household,3.42,12,Y,SUP038
+SKU0195,Ambient Food Product 0195,Ambient Food,5.84,12,Y,SUP048
+SKU0196,Ambient Food Product 0196,Ambient Food,6.26,10,Y,SUP028
+SKU0197,Beverages Product 0197,Beverages,2.77,6,Y,SUP001
+SKU0198,Household Product 0198,Household,3.89,6,Y,SUP008
+SKU0199,Ambient Food Product 0199,Ambient Food,4.22,24,Y,SUP028
+SKU0200,Chilled Product 0200,Chilled,36.5,10,Y,SUP024
+SKU0201,Household Product 0201,Household,23.83,24,Y,SUP048
+SKU0202,Personal Care Product 0202,Personal Care,5.65,12,Y,SUP025
+SKU0203,Frozen Product 0203,Frozen,5.83,24,Y,SUP052
+SKU0204,Ambient Food Product 0204,Ambient Food,3.5,6,Y,SUP012
+SKU0205,Ambient Food Product 0205,Ambient Food,2.14,6,Y,SUP024
+SKU0206,Ambient Food Product 0206,Ambient Food,6.85,24,Y,SUP046
+SKU0207,Ambient Food Product 0207,Ambient Food,3.86,24,Y,UNKNOWN
+SKU0208,Beverages Product 0208,Beverages,6.99,8,Y,SUP020
+SKU0209,Ambient Food Product 0209,Ambient Food,2.61,8,Y,SUP046
+SKU0210,Frozen Product 0210,Frozen,4.5,10,Y,SUP036
+SKU0211,Beverages Product 0211,Beverages,8.14,10,Y,SUP047
+SKU0212,Beverages Product 0212,Beverages,9.37,6,Y,SUP031
+SKU0213,Ambient Food Product 0213,Ambient Food,9.69,24,Y,SUP052
+SKU0214,Household Product 0214,Household,3.13,6,Y,SUP053
+SKU0215,Household Product 0215,Household,12.88,12,Y,SUP059
+SKU0216,Household Product 0216,Household,4.39,1,Y,SUP008
+SKU0217,Ambient Food Product 0217,Ambient Food,11.15,1,Y,SUP036
+SKU0218,Ambient Food Product 0218,Ambient Food,7.34,12,Y,SUP007
+SKU0219,Personal Care Product 0219,Personal Care,3.02,8,Y,SUP014
+SKU0220,Chilled Product 0220,Chilled,6.02,12,Y,SUP019
+SKU0221,Chilled Product 0221,Chilled,9.37,6,Y,SUP039
+SKU0222,Frozen Product 0222,Frozen,11.01,24,Y,SUP026
+SKU0223,Beverages Product 0223,Beverages,6.74,12,Y,SUP052
+SKU0224,Personal Care Product 0224,Personal Care,20.0,24,Y,SUP018
+SKU0225,Chilled Product 0225,Chilled,14.22,6,Y,SUP038
+SKU0226,Personal Care Product 0226,Personal Care,6.25,8,Y,SUP046
+SKU0227,Ambient Food Product 0227,Ambient Food,12.03,8,Y,SUP059
+SKU0228,Beverages Product 0228,Beverages,25.97,12,Y,SUP015
+SKU0229,Beverages Product 0229,Beverages,26.43,8,Y,SUP045
+SKU0230,Ambient Food Product 0230,Ambient Food,3.33,1,Y,SUP006
+SKU0231,Ambient Food Product 0231,Ambient Food,4.05,8,Y,SUP033
+SKU0232,Frozen Product 0232,Frozen,19.4,6,Y,SUP025
+SKU0233,Personal Care Product 0233,Personal Care,3.71,10,Y,SUP058
+SKU0234,Beverages Product 0234,Beverages,3.13,6,Y,SUP047
+SKU0235,Personal Care Product 0235,Personal Care,5.39,8,Y,SUP056
+SKU0236,Household Product 0236,Household,9.71,12,Y,SUP052
+SKU0237,Frozen Product 0237,Frozen,6.91,10,Y,SUP025
+SKU0238,Household Product 0238,Household,4.84,8,Y,SUP045
+SKU0239,Ambient Food Product 0239,Ambient Food,4.77,12,N,SUP002
+SKU0240,Ambient Food Product 0240,Ambient Food,4.65,12,Y,SUP034
+SKU0241,Household Product 0241,Household,4.17,8,Y,SUP003
+SKU0242,Household Product 0242,Household,32.56,12,Y,SUP044
+SKU0243,Ambient Food Product 0243,Ambient Food,8.97,24,Y,SUP059
+SKU0244,Beverages Product 0244,Beverages,13.15,12,Y,SUP041
+SKU0245,Beverages Product 0245,Beverages,5.38,24,Y,SUP051
+SKU0246,Household Product 0246,Household,6.55,12,Y,SUP015
+SKU0247,Beverages Product 0247,Beverages,4.65,1,Y,SUP060
+SKU0248,Frozen Product 0248,Frozen,1.32,10,Y,SUP034
+SKU0249,Chilled Product 0249,Chilled,3.02,12,Y,SUP041
+SKU0250,Frozen Product 0250,Frozen,2.28,24,Y,SUP047
+SKU0251,Beverages Product 0251,Beverages,1.71,10,Y,SUP039
+SKU0252,Household Product 0252,Household,3.4,6,Y,SUP020
+SKU0253,Frozen Product 0253,Frozen,17.48,12,Y,SUP037
+SKU0254,Ambient Food Product 0254,Ambient Food,7.18,6,Y,SUP040
+SKU0255,Ambient Food Product 0255,Ambient Food,17.1,12,Y,SUP052
+SKU0256,Household Product 0256,Household,9.65,12,Y,SUP029
+SKU0257,Household Product 0257,Household,12.29,12,Y,SUP031
+SKU0258,Ambient Food Product 0258,Ambient Food,4.11,24,Y,SUP031
+SKU0259,Ambient Food Product 0259,Ambient Food,10.39,12,Y,SUP007
+SKU0260,Beverages Product 0260,Beverages,11.87,12,Y,SUP006
+SKU0261,Ambient Food Product 0261,Ambient Food,5.08,12,Y,SUP002
+SKU0262,Household Product 0262,Household,10.63,24,Y,SUP040
+SKU0263,Chilled Product 0263,Chilled,10.68,24,Y,SUP026
+SKU0264,Ambient Food Product 0264,Ambient Food,5.17,1,Y,SUP052
+SKU0265,Personal Care Product 0265,Personal Care,3.56,12,Y,SUP043
+SKU0266,Ambient Food Product 0266,Ambient Food,3.42,6,Y,SUP009
+SKU0267,Chilled Product 0267,Chilled,7.82,24,Y,SUP007
+SKU0268,Ambient Food Product 0268,Ambient Food,9.14,12,Y,SUP022
+SKU0269,Ambient Food Product 0269,Ambient Food,4.41,10,Y,SUP056
+SKU0270,Ambient Food Product 0270,Ambient Food,7.52,6,Y,SUP003
+SKU0271,Ambient Food Product 0271,Ambient Food,10.71,8,Y,SUP012
+SKU0272,Ambient Food Product 0272,Ambient Food,11.04,12,Y,SUP002
+SKU0273,Ambient Food Product 0273,Ambient Food,20.26,6,Y,SUP025
+SKU0274,Beverages Product 0274,Beverages,16.95,6,Y,SUP060
+SKU0275,Beverages Product 0275,Beverages,3.85,24,Y,SUP042
+SKU0276,Chilled Product 0276,Chilled,22.07,12,Y,SUP030
+SKU0277,Chilled Product 0277,Chilled,5.23,6,Y,SUP009
+SKU0278,Frozen Product 0278,Frozen,14.57,8,Y,SUP022
+SKU0279,Household Product 0279,Household,7.72,24,Y,SUP032
+SKU0280,Household Product 0280,Household,5.65,12,Y,SUP017
+SKU0281,Ambient Food Product 0281,Ambient Food,2.28,12,Y,SUP043
+SKU0282,Ambient Food Product 0282,Ambient Food,6.61,8,Y,SUP059
+SKU0283,Ambient Food Product 0283,Ambient Food,2.68,8,Y,SUP013
+SKU0284,Ambient Food Product 0284,Ambient Food,13.86,1,N,SUP016
+SKU0285,Beverages Product 0285,Beverages,19.8,12,Y,SUP008
+SKU0286,Frozen Product 0286,Frozen,4.4,1,Y,SUP044
+SKU0287,Ambient Food Product 0287,Ambient Food,8.99,1,Y,SUP028
+SKU0288,Chilled Product 0288,Chilled,4.61,12,Y,SUP018
+SKU0289,Frozen Product 0289,Frozen,4.91,24,Y,SUP014
+SKU0290,Ambient Food Product 0290,Ambient Food,12.22,12,Y,SUP005
+SKU0291,Household Product 0291,Household,7.21,10,Y,SUP029
+SKU0292,Ambient Food Product 0292,Ambient Food,22.89,12,N,SUP041
+SKU0293,Personal Care Product 0293,Personal Care,5.4,10,Y,SUP015
+SKU0294,Ambient Food Product 0294,Ambient Food,14.15,8,Y,SUP001
+SKU0295,Household Product 0295,Household,7.87,12,Y,SUP029
+SKU0296,Personal Care Product 0296,Personal Care,12.39,10,Y,SUP041
+SKU0297,Personal Care Product 0297,Personal Care,5.53,12,Y,SUP021
+SKU0298,Household Product 0298,Household,7.15,24,Y,SUP016
+SKU0299,Household Product 0299,Household,6.85,24,Y,SUP010
+SKU0300,Beverages Product 0300,Beverages,4.29,1,Y,SUP045
+SKU0301,Household Product 0301,Household,11.36,10,Y,SUP052
+SKU0302,Ambient Food Product 0302,Ambient Food,11.28,6,Y,SUP047
+SKU0303,Beverages Product 0303,Beverages,10.87,8,Y,SUP032
+SKU0304,Frozen Product 0304,Frozen,20.07,8,Y,SUP044
+SKU0305,Household Product 0305,Household,18.96,6,Y,UNKNOWN
+SKU0306,Frozen Product 0306,Frozen,5.79,12,Y,SUP002
+SKU0307,Chilled Product 0307,Chilled,9.42,12,Y,SUP023
+SKU0308,Beverages Product 0308,Beverages,4.93,24,Y,SUP043
+SKU0309,Chilled Product 0309,Chilled,7.5,1,Y,SUP039
+SKU0310,Ambient Food Product 0310,Ambient Food,5.0,1,Y,SUP060
+SKU0311,Frozen Product 0311,Frozen,21.18,10,Y,SUP060
+SKU0312,Frozen Product 0312,Frozen,9.36,6,Y,SUP015
+SKU0313,Ambient Food Product 0313,Ambient Food,6.41,8,Y,SUP001
+SKU0314,Chilled Product 0314,Chilled,16.05,24,Y,SUP017
+SKU0315,Chilled Product 0315,Chilled,1.8,6,Y,SUP053
+SKU0316,Chilled Product 0316,Chilled,2.0,6,Y,SUP049
+SKU0317,Chilled Product 0317,Chilled,12.4,12,Y,SUP006
+SKU0318,Beverages Product 0318,Beverages,7.69,12,Y,SUP010
+SKU0319,Chilled Product 0319,Chilled,8.7,12,Y,SUP034
+SKU0320,Personal Care Product 0320,Personal Care,3.12,8,Y,SUP040
+SKU0321,Personal Care Product 0321,Personal Care,7.28,24,Y,SUP059
+SKU0322,Frozen Product 0322,Frozen,27.17,6,Y,SUP046
+SKU0323,Chilled Product 0323,Chilled,12.63,10,Y,SUP013
+SKU0324,Beverages Product 0324,Beverages,8.25,12,Y,SUP003
+SKU0325,Household Product 0325,Household,5.55,24,Y,SUP039
+SKU0326,Beverages Product 0326,Beverages,5.72,8,Y,SUP034
+SKU0327,Household Product 0327,Household,1.85,12,Y,SUP056
+SKU0328,Beverages Product 0328,Beverages,8.74,1,Y,SUP035
+SKU0329,Beverages Product 0329,Beverages,12.8,6,Y,SUP031
+SKU0330,Chilled Product 0330,Chilled,2.65,1,Y,SUP019
+SKU0331,Household Product 0331,Household,4.81,12,Y,SUP006
+SKU0332,Ambient Food Product 0332,Ambient Food,3.48,8,Y,SUP053
+SKU0333,Beverages Product 0333,Beverages,3.95,12,Y,SUP050
+SKU0334,Household Product 0334,Household,7.65,1,Y,SUP010
+SKU0335,Ambient Food Product 0335,Ambient Food,1.91,24,Y,SUP043
+SKU0336,Beverages Product 0336,Beverages,11.02,24,Y,SUP022
+SKU0337,Ambient Food Product 0337,Ambient Food,12.06,6,Y,SUP027
+SKU0338,Household Product 0338,Household,6.28,1,Y,SUP051
+SKU0339,Ambient Food Product 0339,Ambient Food,1.47,1,Y,SUP051
+SKU0340,Personal Care Product 0340,Personal Care,3.87,24,Y,SUP012
+SKU0341,Ambient Food Product 0341,Ambient Food,16.47,6,Y,SUP019
+SKU0342,Personal Care Product 0342,Personal Care,1.21,12,Y,SUP050
+SKU0343,Household Product 0343,Household,5.9,10,Y,SUP056
+SKU0344,Beverages Product 0344,Beverages,3.43,12,Y,SUP005
+SKU0345,Household Product 0345,Household,12.47,12,Y,SUP051
+SKU0346,Household Product 0346,Household,4.76,12,Y,SUP030
+SKU0347,Personal Care Product 0347,Personal Care,9.61,24,Y,SUP036
+SKU0348,Chilled Product 0348,Chilled,10.67,6,Y,SUP005
+SKU0349,Beverages Product 0349,Beverages,24.37,24,Y,SUP041
+SKU0350,Ambient Food Product 0350,Ambient Food,6.48,1,Y,SUP041
+SKU0351,Beverages Product 0351,Beverages,9.44,10,Y,SUP040
+SKU0352,Ambient Food Product 0352,Ambient Food,2.81,24,Y,SUP048
+SKU0353,Beverages Product 0353,Beverages,16.02,12,Y,SUP057
+SKU0354,Beverages Product 0354,Beverages,4.51,12,Y,SUP051
+SKU0355,Frozen Product 0355,Frozen,5.13,8,Y,SUP045
+SKU0356,Frozen Product 0356,Frozen,7.28,10,Y,SUP059
+SKU0357,Household Product 0357,Household,2.68,8,Y,SUP041
+SKU0358,Household Product 0358,Household,8.57,12,Y,SUP041
+SKU0359,Frozen Product 0359,Frozen,13.86,10,Y,SUP033
+SKU0360,Beverages Product 0360,Beverages,8.94,8,Y,SUP047
+SKU0361,Personal Care Product 0361,Personal Care,2.63,8,Y,SUP005
+SKU0362,Ambient Food Product 0362,Ambient Food,6.82,6,Y,SUP031
+SKU0363,Ambient Food Product 0363,Ambient Food,11.97,8,Y,SUP026
+SKU0364,Ambient Food Product 0364,Ambient Food,2.18,6,Y,SUP055
+SKU0365,Beverages Product 0365,Beverages,3.67,24,Y,SUP005
+SKU0366,Frozen Product 0366,Frozen,13.06,12,Y,SUP039
+SKU0367,Household Product 0367,Household,8.81,6,Y,SUP012
+SKU0368,Beverages Product 0368,Beverages,9.66,12,Y,SUP054
+SKU0369,Chilled Product 0369,Chilled,24.75,24,Y,SUP052
+SKU0370,Personal Care Product 0370,Personal Care,10.02,6,Y,SUP015
+SKU0371,Household Product 0371,Household,11.33,6,Y,SUP053
+SKU0372,Chilled Product 0372,Chilled,43.03,1,Y,SUP030
+SKU0373,Chilled Product 0373,Chilled,6.43,1,Y,SUP059
+SKU0374,Chilled Product 0374,Chilled,4.4,12,Y,SUP044
+SKU0375,Ambient Food Product 0375,Ambient Food,9.76,24,Y,SUP003
+SKU0376,Ambient Food Product 0376,Ambient Food,9.83,1,Y,SUP013
+SKU0377,Personal Care Product 0377,Personal Care,5.25,12,Y,SUP025
+SKU0378,Frozen Product 0378,Frozen,3.78,1,Y,SUP013
+SKU0379,Chilled Product 0379,Chilled,33.16,12,Y,SUP008
+SKU0380,Household Product 0380,Household,9.14,12,Y,SUP059
+SKU0381,Beverages Product 0381,Beverages,4.59,8,N,SUP053
+SKU0382,Personal Care Product 0382,Personal Care,13.4,1,Y,SUP027
+SKU0383,Household Product 0383,Household,6.88,12,Y,SUP013
+SKU0384,Frozen Product 0384,Frozen,6.27,24,Y,SUP011
+SKU0385,Chilled Product 0385,Chilled,10.65,6,Y,SUP055
+SKU0386,Personal Care Product 0386,Personal Care,3.19,6,Y,SUP020
+SKU0387,Household Product 0387,Household,9.29,6,Y,SUP001
+SKU0388,Personal Care Product 0388,Personal Care,25.62,12,Y,SUP024
+SKU0389,Ambient Food Product 0389,Ambient Food,10.0,12,Y,SUP028
+SKU0390,Household Product 0390,Household,5.79,12,Y,SUP038
+SKU0391,Beverages Product 0391,Beverages,5.31,12,Y,SUP021
+SKU0392,Ambient Food Product 0392,Ambient Food,5.66,24,Y,SUP056
+SKU0393,Beverages Product 0393,Beverages,6.26,24,Y,SUP039
+SKU0394,Beverages Product 0394,Beverages,5.78,6,Y,SUP060
+SKU0395,Ambient Food Product 0395,Ambient Food,13.4,12,Y,SUP023
+SKU0396,Frozen Product 0396,Frozen,2.4,8,Y,SUP040
+SKU0397,Household Product 0397,Household,12.94,8,Y,SUP022
+SKU0398,Chilled Product 0398,Chilled,5.77,24,Y,SUP042
+SKU0399,Frozen Product 0399,Frozen,9.44,12,Y,SUP045
+SKU0400,Frozen Product 0400,Frozen,3.55,24,Y,SUP020
+SKU0401,Chilled Product 0401,Chilled,17.52,10,Y,SUP057
+SKU0402,Personal Care Product 0402,Personal Care,16.6,12,Y,SUP052
+SKU0403,Household Product 0403,Household,13.79,12,Y,SUP054
+SKU0404,Ambient Food Product 0404,Ambient Food,2.76,6,Y,SUP014
+SKU0405,Personal Care Product 0405,Personal Care,12.67,6,Y,SUP044
+SKU0406,Household Product 0406,Household,9.61,12,Y,SUP007
+SKU0407,Chilled Product 0407,Chilled,2.6,1,Y,SUP007
+SKU0408,Household Product 0408,Household,7.27,24,Y,SUP059
+SKU0409,Ambient Food Product 0409,Ambient Food,9.36,6,Y,SUP010
+SKU0410,Personal Care Product 0410,Personal Care,10.61,6,Y,SUP052
+SKU0411,Beverages Product 0411,Beverages,8.29,12,Y,SUP026
+SKU0412,Beverages Product 0412,Beverages,8.93,6,Y,SUP019
+SKU0413,Ambient Food Product 0413,Ambient Food,19.26,24,Y,SUP005
+SKU0414,Personal Care Product 0414,Personal Care,16.39,12,Y,SUP041
+SKU0415,Ambient Food Product 0415,Ambient Food,1.15,1,Y,SUP044
+SKU0416,Ambient Food Product 0416,Ambient Food,6.01,12,Y,SUP029
+SKU0417,Ambient Food Product 0417,Ambient Food,6.64,12,Y,SUP049
+SKU0418,Household Product 0418,Household,2.37,12,Y,SUP020
+SKU0419,Ambient Food Product 0419,Ambient Food,7.86,24,Y,SUP034
+SKU0420,Personal Care Product 0420,Personal Care,16.64,12,Y,SUP018
+SKU0421,Beverages Product 0421,Beverages,3.65,12,N,SUP035
+SKU0422,Ambient Food Product 0422,Ambient Food,9.2,8,Y,SUP009
+SKU0423,Ambient Food Product 0423,Ambient Food,4.07,12,Y,SUP029
+SKU0424,Ambient Food Product 0424,Ambient Food,4.77,24,Y,SUP033
+SKU0425,Beverages Product 0425,Beverages,19.3,12,Y,SUP034
+SKU0426,Household Product 0426,Household,5.19,12,Y,SUP027
+SKU0427,Ambient Food Product 0427,Ambient Food,9.98,10,Y,SUP039
+SKU0428,Household Product 0428,Household,2.19,12,Y,SUP031
+SKU0429,Ambient Food Product 0429,Ambient Food,24.79,24,Y,SUP017
+SKU0430,Household Product 0430,Household,10.93,6,Y,SUP013
+SKU0431,Personal Care Product 0431,Personal Care,6.56,6,Y,SUP039
+SKU0432,Household Product 0432,Household,10.74,12,Y,SUP057
+SKU0433,Beverages Product 0433,Beverages,2.96,12,Y,SUP046
+SKU0434,Household Product 0434,Household,15.94,12,Y,SUP039
+SKU0435,Ambient Food Product 0435,Ambient Food,5.99,1,Y,SUP056
+SKU0436,Ambient Food Product 0436,Ambient Food,6.47,10,Y,SUP054
+SKU0437,Ambient Food Product 0437,Ambient Food,5.37,12,Y,SUP031
+SKU0438,Frozen Product 0438,Frozen,5.07,12,Y,SUP007
+SKU0439,Household Product 0439,Household,11.61,12,Y,SUP039
+SKU0440,Beverages Product 0440,Beverages,8.73,12,Y,SUP038
+SKU0441,Household Product 0441,Household,11.29,12,Y,SUP017
+SKU0442,Ambient Food Product 0442,Ambient Food,7.35,12,Y,SUP051
+SKU0443,Household Product 0443,Household,10.31,12,N,SUP053
+SKU0444,Ambient Food Product 0444,Ambient Food,5.63,12,Y,SUP020
+SKU0445,Chilled Product 0445,Chilled,31.48,12,Y,SUP029
+SKU0446,Beverages Product 0446,Beverages,2.67,6,Y,SUP012
+SKU0447,Personal Care Product 0447,Personal Care,16.77,8,Y,SUP011
+SKU0448,Beverages Product 0448,Beverages,17.98,12,Y,SUP016
+SKU0449,Ambient Food Product 0449,Ambient Food,4.25,24,Y,SUP022
+SKU0450,Beverages Product 0450,Beverages,31.47,12,Y,SUP017
+SKU0451,Ambient Food Product 0451,Ambient Food,14.11,6,Y,SUP010
+SKU0452,Personal Care Product 0452,Personal Care,13.89,12,Y,SUP027
+SKU0453,Beverages Product 0453,Beverages,7.52,6,Y,SUP038
+SKU0454,Ambient Food Product 0454,Ambient Food,6.42,12,Y,SUP020
+SKU0455,Ambient Food Product 0455,Ambient Food,6.45,24,Y,SUP033
+SKU0456,Ambient Food Product 0456,Ambient Food,9.52,12,Y,SUP017
+SKU0457,Personal Care Product 0457,Personal Care,18.37,12,Y,SUP043
+SKU0458,Frozen Product 0458,Frozen,8.31,8,N,SUP039
+SKU0459,Household Product 0459,Household,4.09,10,Y,SUP058
+SKU0460,Beverages Product 0460,Beverages,12.63,24,Y,SUP004
+SKU0461,Beverages Product 0461,Beverages,13.45,12,Y,SUP052
+SKU0462,Ambient Food Product 0462,Ambient Food,11.31,12,Y,SUP021
+SKU0463,Personal Care Product 0463,Personal Care,12.0,8,Y,SUP004
+SKU0464,Chilled Product 0464,Chilled,6.2,1,Y,SUP042
+SKU0465,Beverages Product 0465,Beverages,4.04,6,Y,SUP011
+SKU0466,Beverages Product 0466,Beverages,4.2,6,Y,SUP011
+SKU0467,Beverages Product 0467,Beverages,2.55,8,Y,SUP059
+SKU0468,Personal Care Product 0468,Personal Care,8.62,24,Y,SUP014
+SKU0469,Ambient Food Product 0469,Ambient Food,7.0,12,Y,SUP033
+SKU0470,Frozen Product 0470,Frozen,5.55,6,Y,SUP013
+SKU0471,Chilled Product 0471,Chilled,1.08,6,Y,SUP008
+SKU0472,Frozen Product 0472,Frozen,3.28,8,Y,SUP001
+SKU0473,Ambient Food Product 0473,Ambient Food,15.31,24,Y,SUP001
+SKU0474,Ambient Food Product 0474,Ambient Food,4.8,10,Y,SUP029
+SKU0475,Chilled Product 0475,Chilled,9.34,12,Y,SUP027
+SKU0476,Chilled Product 0476,Chilled,2.99,24,Y,SUP003
+SKU0477,Frozen Product 0477,Frozen,18.82,6,Y,SUP021
+SKU0478,Beverages Product 0478,Beverages,6.73,12,Y,SUP017
+SKU0479,Beverages Product 0479,Beverages,8.92,24,Y,SUP035
+SKU0480,Frozen Product 0480,Frozen,33.51,10,Y,SUP060
+SKU0481,Chilled Product 0481,Chilled,19.8,1,Y,SUP042
+SKU0482,Ambient Food Product 0482,Ambient Food,6.05,24,Y,SUP056
+SKU0483,Beverages Product 0483,Beverages,5.02,24,Y,SUP012
+SKU0484,Chilled Product 0484,Chilled,5.98,12,Y,SUP013
+SKU0485,Ambient Food Product 0485,Ambient Food,10.29,12,Y,SUP046
+SKU0486,Frozen Product 0486,Frozen,6.9,6,Y,SUP019
+SKU0487,Frozen Product 0487,Frozen,5.71,24,Y,SUP051
+SKU0488,Ambient Food Product 0488,Ambient Food,19.18,12,Y,SUP028
+SKU0489,Beverages Product 0489,Beverages,6.86,1,Y,SUP013
+SKU0490,Beverages Product 0490,Beverages,32.94,12,Y,SUP051
+SKU0491,Beverages Product 0491,Beverages,7.84,24,Y,SUP034
+SKU0492,Beverages Product 0492,Beverages,23.58,24,Y,SUP049
+SKU0493,Beverages Product 0493,Beverages,9.32,8,Y,SUP028
+SKU0494,Chilled Product 0494,Chilled,13.82,1,Y,SUP008
+SKU0495,Household Product 0495,Household,4.61,24,Y,SUP041
+SKU0496,Beverages Product 0496,Beverages,4.24,24,Y,SUP008
+SKU0497,Frozen Product 0497,Frozen,9.96,12,Y,SUP040
+SKU0498,Beverages Product 0498,Beverages,14.05,12,Y,SUP026
+SKU0499,Chilled Product 0499,Chilled,7.58,10,Y,SUP048
+SKU0500,Frozen Product 0500,Frozen,3.2,10,Y,SUP053
+SKU0501,Household Product 0501,Household,3.05,6,N,SUP025
+SKU0502,Personal Care Product 0502,Personal Care,2.92,6,N,SUP053
+SKU0503,Personal Care Product 0503,Personal Care,2.34,6,Y,SUP007
+SKU0504,Frozen Product 0504,Frozen,7.93,24,Y,SUP007
+SKU0505,Frozen Product 0505,Frozen,15.35,6,Y,SUP060
+SKU0506,Household Product 0506,Household,7.32,6,Y,SUP035
+SKU0507,Chilled Product 0507,Chilled,1.7,12,Y,SUP028
+SKU0508,Household Product 0508,Household,6.53,6,Y,SUP010
+SKU0509,Frozen Product 0509,Frozen,6.65,6,Y,SUP018
+SKU0510,Ambient Food Product 0510,Ambient Food,28.86,12,Y,SUP042
+SKU0511,Ambient Food Product 0511,Ambient Food,2.87,8,Y,SUP050
+SKU0512,Household Product 0512,Household,5.73,12,Y,SUP055
+SKU0513,Ambient Food Product 0513,Ambient Food,22.39,24,Y,SUP025
+SKU0514,Chilled Product 0514,Chilled,9.9,6,Y,SUP028
+SKU0515,Chilled Product 0515,Chilled,10.66,24,Y,SUP010
+SKU0516,Ambient Food Product 0516,Ambient Food,7.96,24,Y,SUP005
+SKU0517,Chilled Product 0517,Chilled,9.16,24,Y,SUP027
+SKU0518,Household Product 0518,Household,12.25,12,Y,SUP035
+SKU0519,Ambient Food Product 0519,Ambient Food,4.37,12,Y,SUP007
+SKU0520,Household Product 0520,Household,13.08,12,Y,SUP025
+SKU0521,Household Product 0521,Household,3.03,12,Y,SUP039
+SKU0522,Chilled Product 0522,Chilled,9.15,1,Y,SUP049
+SKU0523,Ambient Food Product 0523,Ambient Food,8.3,24,Y,SUP057
+SKU0524,Beverages Product 0524,Beverages,4.95,12,Y,SUP021
+SKU0525,Ambient Food Product 0525,Ambient Food,7.28,12,Y,SUP024
+SKU0526,Chilled Product 0526,Chilled,4.93,8,Y,SUP053
+SKU0527,Personal Care Product 0527,Personal Care,3.68,1,Y,SUP042
+SKU0528,Personal Care Product 0528,Personal Care,5.87,12,Y,SUP017
+SKU0529,Household Product 0529,Household,3.61,12,Y,SUP042
+SKU0530,Chilled Product 0530,Chilled,9.11,10,Y,SUP010
+SKU0531,Beverages Product 0531,Beverages,3.5,8,Y,SUP027
+SKU0532,Beverages Product 0532,Beverages,11.74,6,Y,SUP019
+SKU0533,Chilled Product 0533,Chilled,3.43,12,Y,SUP060
+SKU0534,Beverages Product 0534,Beverages,5.11,8,Y,SUP003
+SKU0535,Ambient Food Product 0535,Ambient Food,4.92,24,Y,SUP052
+SKU0536,Ambient Food Product 0536,Ambient Food,17.49,6,N,SUP017
+SKU0537,Frozen Product 0537,Frozen,9.16,8,Y,SUP003
+SKU0538,Ambient Food Product 0538,Ambient Food,6.44,8,Y,SUP040
+SKU0539,Ambient Food Product 0539,Ambient Food,10.22,12,Y,SUP041
+SKU0540,Household Product 0540,Household,1.88,12,Y,SUP009
+SKU0541,Personal Care Product 0541,Personal Care,7.18,12,Y,SUP003
+SKU0542,Beverages Product 0542,Beverages,27.07,24,Y,SUP007
+SKU0543,Household Product 0543,Household,8.05,8,Y,SUP025
+SKU0544,Personal Care Product 0544,Personal Care,7.72,12,Y,SUP008
+SKU0545,Ambient Food Product 0545,Ambient Food,10.55,1,Y,SUP043
+SKU0546,Frozen Product 0546,Frozen,13.23,8,Y,SUP005
+SKU0547,Chilled Product 0547,Chilled,2.02,10,Y,SUP048
+SKU0548,Ambient Food Product 0548,Ambient Food,2.48,1,Y,SUP053
+SKU0549,Household Product 0549,Household,8.47,12,Y,SUP044
+SKU0550,Frozen Product 0550,Frozen,4.64,12,Y,SUP057
+SKU0551,Frozen Product 0551,Frozen,17.34,12,Y,SUP057
+SKU0552,Ambient Food Product 0552,Ambient Food,6.02,12,Y,SUP003
+SKU0553,Ambient Food Product 0553,Ambient Food,2.1,12,N,SUP021
+SKU0554,Personal Care Product 0554,Personal Care,3.24,10,Y,SUP046
+SKU0555,Ambient Food Product 0555,Ambient Food,1.24,1,Y,SUP021
+SKU0556,Ambient Food Product 0556,Ambient Food,6.35,6,Y,SUP045
+SKU0557,Chilled Product 0557,Chilled,6.54,12,Y,SUP047
+SKU0558,Frozen Product 0558,Frozen,5.61,24,Y,SUP060
+SKU0559,Beverages Product 0559,Beverages,14.9,1,Y,SUP020
+SKU0560,Frozen Product 0560,Frozen,16.1,12,Y,SUP021
+SKU0561,Ambient Food Product 0561,Ambient Food,6.61,12,Y,SUP002
+SKU0562,Ambient Food Product 0562,Ambient Food,1.84,24,Y,SUP018
+SKU0563,Household Product 0563,Household,11.04,12,Y,SUP017
+SKU0564,Beverages Product 0564,Beverages,10.6,12,Y,SUP028
+SKU0565,Beverages Product 0565,Beverages,9.03,12,Y,SUP026
+SKU0566,Beverages Product 0566,Beverages,13.98,24,Y,SUP052
+SKU0567,Household Product 0567,Household,3.47,6,Y,SUP047
+SKU0568,Ambient Food Product 0568,Ambient Food,27.27,24,Y,SUP044
+SKU0569,Chilled Product 0569,Chilled,3.96,1,Y,SUP001
+SKU0570,Beverages Product 0570,Beverages,12.03,24,Y,SUP029
+SKU0571,Chilled Product 0571,Chilled,2.47,1,Y,SUP044
+SKU0572,Household Product 0572,Household,4.04,6,Y,SUP015
+SKU0573,Frozen Product 0573,Frozen,19.8,1,Y,SUP026
+SKU0574,Household Product 0574,Household,6.24,10,Y,SUP044
+SKU0575,Household Product 0575,Household,12.76,8,Y,SUP048
+SKU0576,Frozen Product 0576,Frozen,8.62,6,Y,SUP052
+SKU0577,Personal Care Product 0577,Personal Care,6.9,10,Y,SUP026
+SKU0578,Beverages Product 0578,Beverages,17.93,10,Y,SUP024
+SKU0579,Household Product 0579,Household,6.34,12,Y,SUP023
+SKU0580,Chilled Product 0580,Chilled,2.32,24,Y,SUP041
+SKU0581,Frozen Product 0581,Frozen,4.38,12,Y,SUP026
+SKU0582,Beverages Product 0582,Beverages,10.57,6,Y,SUP025
+SKU0583,Ambient Food Product 0583,Ambient Food,9.56,8,Y,SUP011
+SKU0584,Chilled Product 0584,Chilled,2.67,24,N,SUP029
+SKU0585,Personal Care Product 0585,Personal Care,4.61,6,Y,SUP015
+SKU0586,Beverages Product 0586,Beverages,5.06,10,Y,SUP032
+SKU0587,Ambient Food Product 0587,Ambient Food,5.83,24,Y,SUP054
+SKU0588,Chilled Product 0588,Chilled,3.02,24,Y,SUP047
+SKU0589,Ambient Food Product 0589,Ambient Food,4.91,10,Y,SUP029
+SKU0590,Ambient Food Product 0590,Ambient Food,4.6,12,Y,SUP059
+SKU0591,Personal Care Product 0591,Personal Care,12.2,10,Y,SUP059
+SKU0592,Frozen Product 0592,Frozen,12.5,12,Y,SUP027
+SKU0593,Chilled Product 0593,Chilled,6.72,1,Y,SUP046
+SKU0594,Beverages Product 0594,Beverages,5.73,6,Y,SUP021
+SKU0595,Ambient Food Product 0595,Ambient Food,8.09,12,Y,SUP053
+SKU0596,Chilled Product 0596,Chilled,4.35,6,Y,SUP023
+SKU0597,Beverages Product 0597,Beverages,3.51,12,Y,SUP016
+SKU0598,Beverages Product 0598,Beverages,4.01,8,Y,SUP009
+SKU0599,Personal Care Product 0599,Personal Care,4.89,24,Y,SUP051
+SKU0600,Beverages Product 0600,Beverages,3.47,24,Y,SUP018
+SKU0601,Frozen Product 0601,Frozen,8.21,12,Y,SUP049
+SKU0602,Household Product 0602,Household,11.87,12,Y,SUP006
+SKU0603,Personal Care Product 0603,Personal Care,2.63,8,Y,SUP031
+SKU0604,Household Product 0604,Household,7.51,12,Y,SUP026
+SKU0605,Personal Care Product 0605,Personal Care,6.4,6,Y,SUP027
+SKU0606,Household Product 0606,Household,9.23,24,Y,SUP011
+SKU0607,Household Product 0607,Household,7.33,24,Y,SUP005
+SKU0608,Ambient Food Product 0608,Ambient Food,2.87,24,Y,SUP021
+SKU0609,Household Product 0609,Household,3.25,24,Y,SUP029
+SKU0610,Frozen Product 0610,Frozen,7.53,24,Y,SUP048
+SKU0611,Beverages Product 0611,Beverages,14.42,6,Y,SUP028
+SKU0612,Beverages Product 0612,Beverages,1.75,24,Y,SUP015
+SKU0613,Personal Care Product 0613,Personal Care,9.25,12,Y,SUP016
+SKU0614,Personal Care Product 0614,Personal Care,16.01,10,Y,SUP037
+SKU0615,Chilled Product 0615,Chilled,6.69,12,Y,SUP027
+SKU0616,Household Product 0616,Household,10.57,8,Y,SUP055
+SKU0617,Household Product 0617,Household,4.68,8,Y,SUP027
+SKU0618,Chilled Product 0618,Chilled,6.84,6,Y,SUP035
+SKU0619,Ambient Food Product 0619,Ambient Food,2.58,6,Y,SUP004
+SKU0620,Ambient Food Product 0620,Ambient Food,1.61,12,N,SUP012
+SKU0621,Household Product 0621,Household,13.64,24,Y,SUP052
+SKU0622,Frozen Product 0622,Frozen,3.9,12,Y,SUP021
+SKU0623,Personal Care Product 0623,Personal Care,5.5,12,Y,SUP026
+SKU0624,Frozen Product 0624,Frozen,3.0,10,Y,SUP036
+SKU0625,Personal Care Product 0625,Personal Care,2.96,10,Y,SUP004
+SKU0626,Frozen Product 0626,Frozen,6.6,6,Y,SUP031
+SKU0627,Household Product 0627,Household,4.6,24,Y,UNKNOWN
+SKU0628,Ambient Food Product 0628,Ambient Food,9.45,6,Y,SUP009
+SKU0629,Beverages Product 0629,Beverages,9.92,12,Y,SUP026
+SKU0630,Household Product 0630,Household,9.1,12,Y,SUP027
+SKU0631,Personal Care Product 0631,Personal Care,8.63,12,Y,SUP012
+SKU0632,Household Product 0632,Household,20.61,24,Y,SUP033
+SKU0633,Ambient Food Product 0633,Ambient Food,3.69,8,Y,SUP045
+SKU0634,Chilled Product 0634,Chilled,7.13,24,Y,SUP017
+SKU0635,Ambient Food Product 0635,Ambient Food,15.43,12,Y,SUP058
+SKU0636,Ambient Food Product 0636,Ambient Food,16.81,12,Y,SUP037
+SKU0637,Beverages Product 0637,Beverages,2.93,12,Y,SUP047
+SKU0638,Household Product 0638,Household,6.03,24,Y,SUP005
+SKU0639,Household Product 0639,Household,17.86,24,Y,SUP047
+SKU0640,Household Product 0640,Household,10.28,10,Y,SUP021
+SKU0641,Household Product 0641,Household,8.39,24,Y,SUP043
+SKU0642,Household Product 0642,Household,6.41,12,Y,SUP049
+SKU0643,Ambient Food Product 0643,Ambient Food,5.76,10,Y,SUP016
+SKU0644,Ambient Food Product 0644,Ambient Food,8.91,24,Y,SUP016
+SKU0645,Beverages Product 0645,Beverages,6.27,10,Y,SUP004
+SKU0646,Household Product 0646,Household,7.19,12,Y,SUP037
+SKU0647,Ambient Food Product 0647,Ambient Food,7.78,6,Y,SUP047
+SKU0648,Frozen Product 0648,Frozen,4.76,6,Y,SUP025
+SKU0649,Beverages Product 0649,Beverages,10.44,24,Y,SUP010
+SKU0650,Ambient Food Product 0650,Ambient Food,49.12,10,Y,SUP019
+SKU0651,Chilled Product 0651,Chilled,2.33,10,Y,SUP025
+SKU0652,Personal Care Product 0652,Personal Care,9.12,6,Y,SUP055
+SKU0653,Beverages Product 0653,Beverages,4.51,12,Y,SUP008
+SKU0654,Ambient Food Product 0654,Ambient Food,10.75,24,Y,SUP021
+SKU0655,Household Product 0655,Household,7.62,24,Y,SUP039
+SKU0656,Chilled Product 0656,Chilled,12.12,1,Y,SUP015
+SKU0657,Household Product 0657,Household,15.86,12,Y,SUP054
+SKU0658,Chilled Product 0658,Chilled,8.37,10,Y,SUP055
+SKU0659,Beverages Product 0659,Beverages,15.42,12,Y,SUP023
+SKU0660,Chilled Product 0660,Chilled,1.61,10,Y,SUP045
+SKU0661,Chilled Product 0661,Chilled,20.78,10,Y,SUP046
+SKU0662,Personal Care Product 0662,Personal Care,9.43,10,Y,SUP041
+SKU0663,Ambient Food Product 0663,Ambient Food,14.89,12,Y,SUP012
+SKU0664,Ambient Food Product 0664,Ambient Food,3.34,12,Y,SUP003
+SKU0665,Chilled Product 0665,Chilled,4.31,10,Y,SUP021
+SKU0666,Household Product 0666,Household,8.12,24,Y,SUP008
+SKU0667,Household Product 0667,Household,7.31,12,Y,UNKNOWN
+SKU0668,Personal Care Product 0668,Personal Care,8.88,8,Y,SUP039
+SKU0669,Chilled Product 0669,Chilled,14.95,24,Y,SUP036
+SKU0670,Chilled Product 0670,Chilled,2.35,24,Y,SUP013
+SKU0671,Ambient Food Product 0671,Ambient Food,13.92,6,Y,SUP002
+SKU0672,Beverages Product 0672,Beverages,7.43,12,Y,SUP014
+SKU0673,Personal Care Product 0673,Personal Care,6.47,8,Y,SUP028
+SKU0674,Beverages Product 0674,Beverages,2.84,12,Y,SUP047
+SKU0675,Beverages Product 0675,Beverages,10.25,6,Y,SUP022
+SKU0676,Chilled Product 0676,Chilled,1.54,12,Y,SUP018
+SKU0677,Personal Care Product 0677,Personal Care,11.26,6,Y,SUP034
+SKU0678,Frozen Product 0678,Frozen,2.8,12,Y,SUP005
+SKU0679,Ambient Food Product 0679,Ambient Food,7.65,24,Y,SUP014
+SKU0680,Chilled Product 0680,Chilled,6.84,10,Y,SUP003
+SKU0681,Ambient Food Product 0681,Ambient Food,15.8,24,Y,SUP032
+SKU0682,Ambient Food Product 0682,Ambient Food,6.58,24,Y,SUP027
+SKU0683,Ambient Food Product 0683,Ambient Food,4.71,24,Y,SUP035
+SKU0684,Frozen Product 0684,Frozen,5.32,6,Y,SUP038
+SKU0685,Beverages Product 0685,Beverages,16.9,24,Y,SUP024
+SKU0686,Chilled Product 0686,Chilled,10.47,1,Y,SUP053
+SKU0687,Frozen Product 0687,Frozen,5.75,10,Y,SUP056
+SKU0688,Personal Care Product 0688,Personal Care,6.34,24,Y,SUP007
+SKU0689,Household Product 0689,Household,2.67,12,Y,SUP056
+SKU0690,Beverages Product 0690,Beverages,9.51,12,Y,SUP012
+SKU0691,Chilled Product 0691,Chilled,2.35,10,Y,SUP015
+SKU0692,Personal Care Product 0692,Personal Care,12.05,24,Y,SUP032
+SKU0693,Ambient Food Product 0693,Ambient Food,8.03,12,Y,SUP002
+SKU0694,Chilled Product 0694,Chilled,34.87,10,Y,SUP022
+SKU0695,Personal Care Product 0695,Personal Care,3.61,24,Y,SUP012
+SKU0696,Frozen Product 0696,Frozen,6.91,6,Y,SUP029
+SKU0697,Household Product 0697,Household,23.78,6,Y,SUP049
+SKU0698,Beverages Product 0698,Beverages,16.03,12,Y,SUP056
+SKU0699,Beverages Product 0699,Beverages,4.7,24,Y,SUP013
+SKU0700,Chilled Product 0700,Chilled,8.55,6,Y,SUP033
+SKU0701,Ambient Food Product 0701,Ambient Food,7.4,6,N,SUP029
+SKU0702,Chilled Product 0702,Chilled,8.88,6,Y,SUP025
+SKU0703,Ambient Food Product 0703,Ambient Food,4.69,24,Y,SUP038
+SKU0704,Household Product 0704,Household,6.97,6,Y,SUP060
+SKU0705,Chilled Product 0705,Chilled,2.62,12,Y,SUP025
+SKU0706,Beverages Product 0706,Beverages,8.07,24,Y,SUP004
+SKU0707,Household Product 0707,Household,9.9,1,Y,SUP055
+SKU0708,Household Product 0708,Household,6.37,12,Y,SUP056
+SKU0709,Frozen Product 0709,Frozen,2.59,12,Y,SUP020
+SKU0710,Frozen Product 0710,Frozen,14.05,24,Y,SUP031
+SKU0711,Personal Care Product 0711,Personal Care,9.36,8,Y,SUP052
+SKU0712,Beverages Product 0712,Beverages,4.61,10,Y,SUP031
+SKU0713,Household Product 0713,Household,6.16,6,Y,SUP029
+SKU0714,Personal Care Product 0714,Personal Care,2.79,12,Y,SUP056
+SKU0715,Household Product 0715,Household,3.79,12,Y,SUP050
+SKU0716,Ambient Food Product 0716,Ambient Food,5.21,6,Y,SUP031
+SKU0717,Beverages Product 0717,Beverages,16.42,10,Y,SUP010
+SKU0718,Ambient Food Product 0718,Ambient Food,4.88,24,Y,SUP027
+SKU0719,Beverages Product 0719,Beverages,11.2,1,Y,SUP041
+SKU0720,Personal Care Product 0720,Personal Care,5.21,8,Y,SUP017
+SKU0721,Frozen Product 0721,Frozen,8.68,12,Y,SUP033
+SKU0722,Frozen Product 0722,Frozen,6.74,8,Y,SUP040
+SKU0723,Ambient Food Product 0723,Ambient Food,13.03,8,Y,SUP006
+SKU0724,Personal Care Product 0724,Personal Care,5.22,10,N,SUP035
+SKU0725,Ambient Food Product 0725,Ambient Food,2.66,6,Y,SUP045
+SKU0726,Ambient Food Product 0726,Ambient Food,3.01,12,Y,SUP013
+SKU0727,Ambient Food Product 0727,Ambient Food,5.23,12,Y,SUP033
+SKU0728,Ambient Food Product 0728,Ambient Food,3.28,12,Y,SUP043
+SKU0729,Frozen Product 0729,Frozen,9.65,6,Y,SUP003
+SKU0730,Frozen Product 0730,Frozen,5.46,24,Y,SUP039
+SKU0731,Chilled Product 0731,Chilled,34.59,6,Y,SUP016
+SKU0732,Ambient Food Product 0732,Ambient Food,2.39,12,Y,SUP024
+SKU0733,Ambient Food Product 0733,Ambient Food,8.43,8,Y,SUP039
+SKU0734,Chilled Product 0734,Chilled,3.55,12,Y,SUP001
+SKU0735,Ambient Food Product 0735,Ambient Food,5.36,6,Y,SUP002
+SKU0736,Beverages Product 0736,Beverages,8.1,6,Y,SUP027
+SKU0737,Ambient Food Product 0737,Ambient Food,1.63,12,Y,SUP057
+SKU0738,Chilled Product 0738,Chilled,8.62,1,Y,SUP001
+SKU0739,Chilled Product 0739,Chilled,25.45,6,Y,SUP048
+SKU0740,Frozen Product 0740,Frozen,5.5,12,Y,SUP005
+SKU0741,Ambient Food Product 0741,Ambient Food,8.75,24,Y,SUP030
+SKU0742,Ambient Food Product 0742,Ambient Food,14.39,6,Y,SUP026
+SKU0743,Household Product 0743,Household,6.64,24,Y,SUP029
+SKU0744,Ambient Food Product 0744,Ambient Food,5.07,12,Y,SUP005
+SKU0745,Frozen Product 0745,Frozen,1.68,24,Y,SUP046
+SKU0746,Frozen Product 0746,Frozen,11.21,12,Y,SUP017
+SKU0747,Chilled Product 0747,Chilled,6.87,12,Y,SUP047
+SKU0748,Frozen Product 0748,Frozen,3.83,12,Y,SUP040
+SKU0749,Household Product 0749,Household,8.02,12,N,SUP034
+SKU0750,Household Product 0750,Household,5.06,24,Y,SUP019
+SKU0751,Chilled Product 0751,Chilled,5.24,6,Y,SUP040
+SKU0752,Chilled Product 0752,Chilled,10.96,8,Y,SUP060
+SKU0753,Ambient Food Product 0753,Ambient Food,3.1,1,Y,SUP056
+SKU0754,Frozen Product 0754,Frozen,14.6,24,Y,SUP055
+SKU0755,Beverages Product 0755,Beverages,2.98,10,Y,SUP014
+SKU0756,Ambient Food Product 0756,Ambient Food,4.8,12,Y,SUP036
+SKU0757,Chilled Product 0757,Chilled,25.79,24,Y,UNKNOWN
+SKU0758,Personal Care Product 0758,Personal Care,15.38,24,Y,SUP059
+SKU0759,Ambient Food Product 0759,Ambient Food,7.87,6,Y,SUP058
+SKU0760,Frozen Product 0760,Frozen,4.01,12,Y,SUP053
+SKU0761,Household Product 0761,Household,5.24,24,Y,SUP010
+SKU0762,Ambient Food Product 0762,Ambient Food,7.75,1,Y,SUP020
+SKU0763,Ambient Food Product 0763,Ambient Food,7.57,12,Y,SUP043
+SKU0764,Ambient Food Product 0764,Ambient Food,6.97,8,Y,SUP045
+SKU0765,Personal Care Product 0765,Personal Care,7.24,12,Y,SUP022
+SKU0766,Ambient Food Product 0766,Ambient Food,6.43,12,Y,SUP009
+SKU0767,Ambient Food Product 0767,Ambient Food,2.89,6,Y,SUP009
+SKU0768,Ambient Food Product 0768,Ambient Food,5.28,6,Y,SUP042
+SKU0769,Ambient Food Product 0769,Ambient Food,13.39,6,Y,SUP028
+SKU0770,Beverages Product 0770,Beverages,3.04,6,Y,SUP030
+SKU0771,Ambient Food Product 0771,Ambient Food,6.53,12,Y,SUP049
+SKU0772,Beverages Product 0772,Beverages,4.34,8,Y,SUP002
+SKU0773,Beverages Product 0773,Beverages,7.94,6,Y,SUP046
+SKU0774,Household Product 0774,Household,5.74,12,Y,SUP017
+SKU0775,Ambient Food Product 0775,Ambient Food,19.3,12,Y,SUP056
+SKU0776,Household Product 0776,Household,10.27,12,Y,SUP058
+SKU0777,Beverages Product 0777,Beverages,3.15,24,Y,SUP031
+SKU0778,Ambient Food Product 0778,Ambient Food,11.43,10,Y,SUP019
+SKU0779,Household Product 0779,Household,4.47,24,Y,SUP014
+SKU0780,Household Product 0780,Household,5.08,1,Y,SUP011
+SKU0781,Chilled Product 0781,Chilled,9.06,12,Y,SUP060
+SKU0782,Personal Care Product 0782,Personal Care,5.37,24,Y,SUP012
+SKU0783,Frozen Product 0783,Frozen,13.2,24,Y,SUP027
+SKU0784,Beverages Product 0784,Beverages,4.47,12,Y,SUP029
+SKU0785,Personal Care Product 0785,Personal Care,4.94,12,Y,SUP041
+SKU0786,Chilled Product 0786,Chilled,4.82,8,Y,SUP051
+SKU0787,Household Product 0787,Household,5.12,12,Y,SUP034
+SKU0788,Chilled Product 0788,Chilled,15.1,12,Y,SUP046
+SKU0789,Household Product 0789,Household,11.12,24,Y,SUP035
+SKU0790,Beverages Product 0790,Beverages,22.45,12,Y,SUP027
+SKU0791,Ambient Food Product 0791,Ambient Food,32.26,1,Y,SUP010
+SKU0792,Frozen Product 0792,Frozen,3.78,12,Y,SUP013
+SKU0793,Chilled Product 0793,Chilled,7.74,6,Y,SUP026
+SKU0794,Ambient Food Product 0794,Ambient Food,3.44,6,Y,SUP003
+SKU0795,Ambient Food Product 0795,Ambient Food,4.46,8,Y,SUP019
+SKU0796,Chilled Product 0796,Chilled,4.91,12,Y,SUP028
+SKU0797,Ambient Food Product 0797,Ambient Food,3.72,6,Y,SUP029
+SKU0798,Ambient Food Product 0798,Ambient Food,3.73,6,Y,SUP049
+SKU0799,Household Product 0799,Household,6.73,1,Y,SUP059
+SKU0800,Beverages Product 0800,Beverages,3.35,24,Y,SUP044
+SKU0801,Household Product 0801,Household,12.77,12,Y,SUP005
+SKU0802,Chilled Product 0802,Chilled,4.07,1,Y,SUP025
+SKU0803,Personal Care Product 0803,Personal Care,45.89,1,Y,SUP044
+SKU0804,Beverages Product 0804,Beverages,5.51,12,Y,SUP036
+SKU0805,Ambient Food Product 0805,Ambient Food,7.74,8,Y,SUP028
+SKU0806,Ambient Food Product 0806,Ambient Food,3.18,12,Y,SUP027
+SKU0807,Beverages Product 0807,Beverages,22.4,10,Y,SUP025
+SKU0808,Ambient Food Product 0808,Ambient Food,15.3,24,Y,SUP035
+SKU0809,Frozen Product 0809,Frozen,8.96,8,Y,SUP011
+SKU0810,Personal Care Product 0810,Personal Care,3.08,12,Y,SUP032
+SKU0811,Ambient Food Product 0811,Ambient Food,8.47,1,Y,SUP013
+SKU0812,Ambient Food Product 0812,Ambient Food,3.56,24,Y,SUP041
+SKU0813,Personal Care Product 0813,Personal Care,19.12,24,Y,SUP052
+SKU0814,Beverages Product 0814,Beverages,12.5,12,Y,SUP031
+SKU0815,Ambient Food Product 0815,Ambient Food,7.86,10,Y,SUP024
+SKU0816,Personal Care Product 0816,Personal Care,1.52,6,Y,SUP057
+SKU0817,Personal Care Product 0817,Personal Care,3.9,24,Y,SUP040
+SKU0818,Beverages Product 0818,Beverages,11.55,12,Y,SUP026
+SKU0819,Beverages Product 0819,Beverages,16.25,6,Y,SUP002
+SKU0820,Chilled Product 0820,Chilled,15.19,10,Y,SUP001
+SKU0821,Ambient Food Product 0821,Ambient Food,2.63,10,Y,SUP014
+SKU0822,Beverages Product 0822,Beverages,8.99,24,Y,SUP015
+SKU0823,Chilled Product 0823,Chilled,14.3,12,Y,SUP044
+SKU0824,Beverages Product 0824,Beverages,2.51,12,Y,SUP031
+SKU0825,Household Product 0825,Household,7.35,12,Y,SUP060
+SKU0826,Ambient Food Product 0826,Ambient Food,8.83,8,Y,SUP033
+SKU0827,Beverages Product 0827,Beverages,6.08,8,Y,SUP055
+SKU0828,Ambient Food Product 0828,Ambient Food,2.22,1,Y,SUP034
+SKU0829,Household Product 0829,Household,5.98,12,Y,SUP022
+SKU0830,Chilled Product 0830,Chilled,5.97,10,Y,SUP043
+SKU0831,Beverages Product 0831,Beverages,6.71,10,Y,SUP027
+SKU0832,Beverages Product 0832,Beverages,5.12,6,Y,SUP017
+SKU0833,Chilled Product 0833,Chilled,5.54,6,Y,SUP029
+SKU0834,Beverages Product 0834,Beverages,7.2,12,Y,SUP040
+SKU0835,Household Product 0835,Household,9.85,6,Y,SUP023
+SKU0836,Beverages Product 0836,Beverages,6.06,1,Y,SUP043
+SKU0837,Household Product 0837,Household,5.66,12,Y,SUP059
+SKU0838,Personal Care Product 0838,Personal Care,7.85,8,Y,SUP025
+SKU0839,Frozen Product 0839,Frozen,2.12,10,Y,SUP018
+SKU0840,Frozen Product 0840,Frozen,10.08,10,Y,SUP025
+SKU0841,Ambient Food Product 0841,Ambient Food,7.39,24,Y,SUP051
+SKU0842,Household Product 0842,Household,7.58,8,Y,SUP011
+SKU0843,Frozen Product 0843,Frozen,13.8,12,Y,SUP059
+SKU0844,Chilled Product 0844,Chilled,2.08,24,Y,SUP025
+SKU0845,Ambient Food Product 0845,Ambient Food,2.05,12,Y,SUP051
+SKU0846,Personal Care Product 0846,Personal Care,8.83,10,Y,SUP048
+SKU0847,Chilled Product 0847,Chilled,7.35,12,Y,SUP048
+SKU0848,Beverages Product 0848,Beverages,8.25,10,Y,SUP055
+SKU0849,Ambient Food Product 0849,Ambient Food,5.47,10,Y,SUP012
+SKU0850,Personal Care Product 0850,Personal Care,11.38,12,Y,SUP036
+SKU0851,Ambient Food Product 0851,Ambient Food,13.55,8,Y,SUP006
+SKU0852,Ambient Food Product 0852,Ambient Food,10.12,6,Y,SUP018
+SKU0853,Household Product 0853,Household,6.24,10,Y,SUP003
+SKU0854,Personal Care Product 0854,Personal Care,1.88,6,Y,SUP041
+SKU0855,Ambient Food Product 0855,Ambient Food,12.18,10,Y,SUP037
+SKU0856,Frozen Product 0856,Frozen,16.35,12,Y,SUP045
+SKU0857,Household Product 0857,Household,11.23,24,Y,SUP011
+SKU0858,Household Product 0858,Household,4.17,1,Y,SUP020
+SKU0859,Chilled Product 0859,Chilled,11.45,12,Y,SUP041
+SKU0860,Frozen Product 0860,Frozen,12.93,10,Y,SUP050
+SKU0861,Household Product 0861,Household,20.35,1,Y,SUP054
+SKU0862,Household Product 0862,Household,4.18,6,Y,SUP005
+SKU0863,Household Product 0863,Household,6.38,6,N,SUP025
+SKU0864,Beverages Product 0864,Beverages,12.01,6,Y,SUP001
+SKU0865,Ambient Food Product 0865,Ambient Food,7.67,8,Y,SUP050
+SKU0866,Personal Care Product 0866,Personal Care,3.57,10,Y,SUP008
+SKU0867,Household Product 0867,Household,9.67,12,Y,SUP050
+SKU0868,Household Product 0868,Household,10.76,1,Y,SUP010
+SKU0869,Ambient Food Product 0869,Ambient Food,7.82,6,Y,SUP001
+SKU0870,Ambient Food Product 0870,Ambient Food,8.52,6,Y,SUP053
+SKU0871,Household Product 0871,Household,6.25,12,Y,SUP027
+SKU0872,Ambient Food Product 0872,Ambient Food,19.31,8,Y,SUP026
+SKU0873,Personal Care Product 0873,Personal Care,4.11,12,N,SUP039
+SKU0874,Chilled Product 0874,Chilled,5.04,6,Y,SUP017
+SKU0875,Household Product 0875,Household,7.44,1,N,SUP042
+SKU0876,Personal Care Product 0876,Personal Care,13.08,24,Y,SUP026
+SKU0877,Chilled Product 0877,Chilled,2.79,6,Y,SUP017
+SKU0878,Chilled Product 0878,Chilled,3.15,6,Y,SUP024
+SKU0879,Beverages Product 0879,Beverages,1.96,6,Y,SUP001
+SKU0880,Beverages Product 0880,Beverages,7.55,24,Y,SUP019
+SKU0881,Chilled Product 0881,Chilled,3.57,12,Y,SUP036
+SKU0882,Beverages Product 0882,Beverages,5.75,12,Y,SUP009
+SKU0883,Personal Care Product 0883,Personal Care,11.36,24,Y,SUP008
+SKU0884,Frozen Product 0884,Frozen,4.87,6,Y,SUP040
+SKU0885,Ambient Food Product 0885,Ambient Food,8.59,24,Y,SUP026
+SKU0886,Chilled Product 0886,Chilled,6.08,6,Y,SUP009
+SKU0887,Chilled Product 0887,Chilled,11.44,12,Y,SUP045
+SKU0888,Ambient Food Product 0888,Ambient Food,10.06,10,Y,SUP047
+SKU0889,Ambient Food Product 0889,Ambient Food,4.71,10,Y,SUP003
+SKU0890,Beverages Product 0890,Beverages,6.62,24,Y,SUP013
+SKU0891,Chilled Product 0891,Chilled,14.56,6,Y,SUP023
+SKU0892,Personal Care Product 0892,Personal Care,9.54,24,Y,SUP044
+SKU0893,Ambient Food Product 0893,Ambient Food,2.98,8,Y,SUP005
+SKU0894,Ambient Food Product 0894,Ambient Food,11.32,12,Y,SUP049
+SKU0895,Household Product 0895,Household,3.65,24,Y,SUP020
+SKU0896,Personal Care Product 0896,Personal Care,18.51,1,Y,SUP008
+SKU0897,Chilled Product 0897,Chilled,14.38,24,Y,SUP052
+SKU0898,Ambient Food Product 0898,Ambient Food,8.92,12,Y,SUP006
+SKU0899,Ambient Food Product 0899,Ambient Food,8.18,12,Y,SUP008
+SKU0900,Frozen Product 0900,Frozen,6.45,6,Y,SUP057
+SKU0901,Frozen Product 0901,Frozen,11.48,12,Y,SUP032
+SKU0902,Chilled Product 0902,Chilled,5.81,12,Y,SUP028
+SKU0903,Ambient Food Product 0903,Ambient Food,8.61,10,Y,SUP042
+SKU0904,Frozen Product 0904,Frozen,13.02,6,Y,SUP038
+SKU0905,Personal Care Product 0905,Personal Care,5.13,6,Y,SUP037
+SKU0906,Beverages Product 0906,Beverages,4.95,24,Y,SUP002
+SKU0907,Frozen Product 0907,Frozen,3.4,1,Y,SUP034
+SKU0908,Ambient Food Product 0908,Ambient Food,3.7,12,Y,SUP017
+SKU0909,Chilled Product 0909,Chilled,2.25,24,Y,SUP049
+SKU0910,Chilled Product 0910,Chilled,11.87,1,Y,SUP031
+SKU0911,Household Product 0911,Household,23.95,6,Y,SUP008
+SKU0912,Household Product 0912,Household,18.66,12,Y,SUP054
+SKU0913,Personal Care Product 0913,Personal Care,2.57,1,Y,SUP018
+SKU0914,Personal Care Product 0914,Personal Care,11.84,12,Y,SUP017
+SKU0915,Personal Care Product 0915,Personal Care,18.62,12,Y,SUP057
+SKU0916,Personal Care Product 0916,Personal Care,5.49,12,Y,SUP047
+SKU0917,Ambient Food Product 0917,Ambient Food,7.89,8,Y,SUP052
+SKU0918,Ambient Food Product 0918,Ambient Food,2.0,12,Y,SUP040
+SKU0919,Chilled Product 0919,Chilled,8.79,12,Y,SUP055
+SKU0920,Beverages Product 0920,Beverages,3.7,6,Y,SUP007
+SKU0921,Ambient Food Product 0921,Ambient Food,8.41,12,Y,SUP036
+SKU0922,Household Product 0922,Household,2.68,24,Y,SUP018
+SKU0923,Beverages Product 0923,Beverages,10.52,12,Y,SUP024
+SKU0924,Beverages Product 0924,Beverages,14.38,10,Y,SUP015
+SKU0925,Ambient Food Product 0925,Ambient Food,4.44,8,Y,SUP013
+SKU0926,Chilled Product 0926,Chilled,3.53,6,Y,SUP027
+SKU0927,Ambient Food Product 0927,Ambient Food,1.82,6,Y,SUP056
+SKU0928,Household Product 0928,Household,6.21,1,Y,SUP039
+SKU0929,Beverages Product 0929,Beverages,5.06,24,Y,SUP021
+SKU0930,Household Product 0930,Household,2.7,6,Y,SUP027
+SKU0931,Chilled Product 0931,Chilled,9.92,24,Y,SUP032
+SKU0932,Chilled Product 0932,Chilled,5.52,6,Y,SUP015
+SKU0933,Chilled Product 0933,Chilled,3.67,8,Y,SUP032
+SKU0934,Household Product 0934,Household,5.15,10,Y,SUP042
+SKU0935,Household Product 0935,Household,14.83,8,Y,SUP015
+SKU0936,Ambient Food Product 0936,Ambient Food,10.93,12,Y,SUP036
+SKU0937,Personal Care Product 0937,Personal Care,6.79,24,Y,SUP043
+SKU0938,Ambient Food Product 0938,Ambient Food,11.05,24,Y,SUP032
+SKU0939,Personal Care Product 0939,Personal Care,3.47,6,Y,SUP018
+SKU0940,Ambient Food Product 0940,Ambient Food,7.55,12,Y,SUP034
+SKU0941,Chilled Product 0941,Chilled,8.13,6,Y,SUP048
+SKU0942,Household Product 0942,Household,5.44,24,Y,SUP014
+SKU0943,Ambient Food Product 0943,Ambient Food,9.81,12,Y,SUP035
+SKU0944,Frozen Product 0944,Frozen,4.45,8,Y,SUP041
+SKU0945,Frozen Product 0945,Frozen,10.29,6,N,SUP020
+SKU0946,Ambient Food Product 0946,Ambient Food,10.58,1,Y,SUP024
+SKU0947,Household Product 0947,Household,1.11,6,Y,SUP054
+SKU0948,Household Product 0948,Household,16.02,24,Y,SUP022
+SKU0949,Household Product 0949,Household,1.02,12,Y,SUP036
+SKU0950,Chilled Product 0950,Chilled,4.95,24,Y,SUP009
+SKU0951,Beverages Product 0951,Beverages,14.39,6,Y,SUP056
+SKU0952,Ambient Food Product 0952,Ambient Food,6.01,12,Y,SUP036
+SKU0953,Ambient Food Product 0953,Ambient Food,2.85,6,Y,SUP046
+SKU0954,Ambient Food Product 0954,Ambient Food,3.63,12,Y,SUP037
+SKU0955,Personal Care Product 0955,Personal Care,14.4,8,Y,SUP022
+SKU0956,Personal Care Product 0956,Personal Care,2.12,8,Y,SUP021
+SKU0957,Household Product 0957,Household,15.39,12,Y,SUP043
+SKU0958,Frozen Product 0958,Frozen,7.13,6,Y,SUP052
+SKU0959,Frozen Product 0959,Frozen,3.4,10,Y,SUP008
+SKU0960,Frozen Product 0960,Frozen,5.06,12,Y,SUP051
+SKU0961,Beverages Product 0961,Beverages,3.81,6,Y,SUP050
+SKU0962,Frozen Product 0962,Frozen,12.98,24,Y,SUP007
+SKU0963,Ambient Food Product 0963,Ambient Food,11.89,12,Y,SUP007
+SKU0964,Ambient Food Product 0964,Ambient Food,2.42,24,Y,SUP042
+SKU0965,Personal Care Product 0965,Personal Care,5.68,12,Y,SUP051
+SKU0966,Frozen Product 0966,Frozen,4.22,12,Y,SUP024
+SKU0967,Personal Care Product 0967,Personal Care,17.13,12,Y,SUP039
+SKU0968,Ambient Food Product 0968,Ambient Food,3.07,24,Y,SUP060
+SKU0969,Beverages Product 0969,Beverages,20.96,12,Y,SUP020
+SKU0970,Ambient Food Product 0970,Ambient Food,7.23,8,Y,SUP014
+SKU0971,Chilled Product 0971,Chilled,3.47,6,Y,SUP060
+SKU0972,Ambient Food Product 0972,Ambient Food,4.76,12,Y,SUP017
+SKU0973,Ambient Food Product 0973,Ambient Food,4.39,1,Y,SUP029
+SKU0974,Personal Care Product 0974,Personal Care,3.23,6,Y,SUP027
+SKU0975,Chilled Product 0975,Chilled,7.86,1,Y,SUP032
+SKU0976,Beverages Product 0976,Beverages,3.33,12,Y,SUP017
+SKU0977,Frozen Product 0977,Frozen,1.79,6,N,SUP041
+SKU0978,Chilled Product 0978,Chilled,5.77,12,N,SUP042
+SKU0979,Beverages Product 0979,Beverages,2.29,12,N,SUP013
+SKU0980,Ambient Food Product 0980,Ambient Food,4.53,24,Y,SUP029
+SKU0981,Personal Care Product 0981,Personal Care,4.09,8,Y,SUP004
+SKU0982,Household Product 0982,Household,4.19,12,Y,SUP014
+SKU0983,Household Product 0983,Household,27.13,12,Y,SUP060
+SKU0984,Frozen Product 0984,Frozen,7.67,10,Y,SUP031
+SKU0985,Ambient Food Product 0985,Ambient Food,8.67,12,Y,SUP038
+SKU0986,Personal Care Product 0986,Personal Care,2.33,6,Y,SUP054
+SKU0987,Chilled Product 0987,Chilled,4.83,24,Y,SUP043
+SKU0988,Ambient Food Product 0988,Ambient Food,8.5,6,Y,SUP048
+SKU0989,Chilled Product 0989,Chilled,3.8,24,Y,SUP043
+SKU0990,Household Product 0990,Household,13.33,12,Y,SUP030
+SKU0991,Beverages Product 0991,Beverages,3.38,6,Y,SUP038
+SKU0992,Household Product 0992,Household,6.13,12,Y,SUP018
+SKU0993,Household Product 0993,Household,5.05,6,Y,SUP054
+SKU0994,Ambient Food Product 0994,Ambient Food,8.22,12,Y,SUP011
+SKU0995,Personal Care Product 0995,Personal Care,4.87,12,Y,SUP054
+SKU0996,Frozen Product 0996,Frozen,6.2,6,Y,SUP053
+SKU0997,Beverages Product 0997,Beverages,6.34,1,Y,SUP009
+SKU0998,Ambient Food Product 0998,Ambient Food,4.58,12,Y,SUP043
+SKU0999,Personal Care Product 0999,Personal Care,10.13,8,Y,SUP060
+SKU1000,Chilled Product 1000,Chilled,8.63,24,Y,SUP035
