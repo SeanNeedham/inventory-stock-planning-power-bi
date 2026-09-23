@@ -33,23 +33,21 @@ The objective was to create a dashboard that helps stakeholders move from identi
 
 ## Executive Summary
 
-The analysis identified several areas of operational risk across inventory, supplier performance and planning data.
+The analysis identified three main areas of operational risk: inventory imbalance, supplier reliability and planning-data quality.
 
-Overall inventory stood at 1.9M units. Approximately 13.7% of product-warehouse positions were below reorder point, while 54.7% were below target stock levels, indicating a substantial gap between current inventory and planned stock positions.
+Current inventory totalled **1.9M units**, with **13.7% of product-warehouse positions below reorder point** and **54.7% below target stock**, showing that overall stock volume was not always aligned to where inventory was needed most.
 
-Supplier performance presented an additional replenishment risk. Only 55.6% of timing-eligible purchase orders were received on time or early, with 22,810 late purchase orders recorded. Supplier-level analysis highlighted a group of suppliers contributing disproportionately to late receipts, providing clear targets for performance review.
+Supplier performance also created replenishment risk. Only **55.6% of timing-eligible purchase orders were received on time or early**, while **22,810 purchase orders were late**, highlighting the need to prioritise supplier-level performance review.
 
-Across the demand dataset, total demand reached 27.6M units, with a 30-day average daily demand of 72.9K units. Product-level stock-cover analysis identified several product-warehouse combinations with low days of cover and therefore higher short-term replenishment pressure.
+Demand totalled **27.6M units**, with a **30-day average daily demand of 72.9K units**. Stock-cover analysis identified product-warehouse combinations with materially lower cover than the overall **26.0-day** position, helping isolate areas of near-term replenishment pressure.
 
-Data-quality controls were retained throughout the analysis rather than removing problematic records. The final dashboard surfaced:
+The dashboard also surfaced data-quality exceptions rather than removing them, including missing demand, purchase-order review cases, unknown warehouse records and stock-target setup issues.
 
-- **900** missing demand rows
-- **105** purchase-order receipt-status reviews
-- **45** purchase-order date reviews
-- **90** unknown-warehouse inventory rows
-- **20** stock-target setup reviews
+Overall, the analysis supports three practical decisions:
 
-Together, the four dashboard pages support three core stakeholder questions:
+- **Where should replenishment action be prioritised?**
+- **Which suppliers require performance review?**
+- **Which data issues must be resolved before planning decisions are trusted?**
 
 ### What happened?
 
@@ -63,7 +61,6 @@ Analyse warehouse, supplier and product-level drivers.
 
 Prioritise replenishment, supplier review and data-quality actions.
 
----
 
 ## Key Findings
 
@@ -78,7 +75,6 @@ Current inventory totalled **1.9M units**, but the analysis showed a meaningful 
 
 This suggests the main issue is not overall stock volume alone, but how inventory is distributed across products and warehouses.
 
----
 
 ### 2. Supplier & Replenishment Performance
 
@@ -91,7 +87,6 @@ Supplier reliability was a significant source of replenishment risk.
 
 This means supplier performance should be reviewed at supplier level rather than relying only on the overall on-time receipt rate.
 
----
 
 ### 3. Demand & Stock Pressure
 
@@ -104,7 +99,6 @@ Demand remained relatively stable across the analysed period, but stock-cover ri
 
 These lower-cover combinations represent the areas where continued demand could create near-term replenishment pressure.
 
----
 
 ### 4. Data Quality & Exceptions
 
@@ -120,9 +114,6 @@ The final review queues identified:
 
 Keeping these records visible provides greater transparency and allows operational teams to distinguish genuine business exceptions from issues caused by incomplete or inconsistent source data.
 
----
-
----
 
 ## Recommendations
 
@@ -134,8 +125,6 @@ Keeping these records visible provides greater transparency and allows operation
 | Medium | Investigate recurring low-cover products against recent demand to determine whether reorder parameters need adjustment. | Demand / Inventory Planner | Improve alignment between demand and replenishment settings. | Days of Stock Cover, 30-Day Avg Daily Demand |
 | High | Resolve purchase-order date and receipt-status exceptions before using those records for supplier performance decisions. | Procurement Operations / Data Owner | Improve reliability of supplier and lead-time reporting. | PO Date Review Count, PO Receipt Review Count |
 | Medium | Correct missing demand, unknown warehouse and stock-target setup records through the source-data process rather than removing them from reporting. | Data Owner / Operations Team | Improve data completeness while preserving transparency in planning decisions. | Missing Demand Rows, Unknown Warehouse Rows, Target Setup Reviews |
-
----
 
 ## Decision Framework
 
@@ -155,8 +144,6 @@ The dashboard is designed to support a simple operational decision process:
 
 5. **Monitor the outcome**  
    Track whether the selected KPI improves following corrective action.
-
----
 
 ## Dashboard
 
@@ -179,8 +166,6 @@ Shows demand trends, warehouse-level demand and product-warehouse combinations w
 Surfaces records requiring review before they are relied upon for inventory, supplier or purchase-order decisions.
 
 ![Data Quality & Exceptions](images/04_data_quality_exceptions.png)
-
----
 
 ## Data Model & Methodology
 
@@ -217,8 +202,6 @@ Additional inactive date relationships were retained for:
 
 This allowed alternative date analysis to be handled explicitly when required.
 
----
-
 ### Data Preparation
 
 Power Query was used to profile, clean and standardise the source data before analysis.
@@ -236,8 +219,6 @@ Key preparation steps included:
 - Identifying stock-target setup inconsistencies
 
 The approach prioritised transparency by flagging questionable records rather than deleting them unless there was a clear analytical reason to exclude them.
-
----
 
 ### Analytical Measures
 
@@ -258,8 +239,6 @@ DAX measures were created to support inventory, supplier and demand decisions, i
 
 Measures were grouped logically to keep the model maintainable and easier to audit.
 
----
-
 ### Validation
 
 The report was validated before final sign-off through:
@@ -274,9 +253,6 @@ The report was validated before final sign-off through:
 
 This ensured the final dashboard was both analytically consistent and usable for operational decision-making.
 
----
----
-
 ## Tools Used
 
 - **Power BI** — data modelling, DAX measures, dashboard design and interactive analysis
@@ -284,8 +260,6 @@ This ensured the final dashboard was both analytically consistent and usable for
 - **DAX** — KPI calculations, stock-cover analysis, supplier performance measures and exception metrics
 - **Excel / CSV** — source data inspection and validation
 - **GitHub** — project documentation and portfolio presentation
-
----
 
 ## Limitations
 
@@ -298,8 +272,6 @@ This analysis is based on the available source data and defined planning rules, 
 - The dashboard identifies operational exceptions and prioritisation opportunities but does not automatically calculate recommended order quantities.
 - No cost, margin, service-level or holding-cost data was available, so stock risk is assessed primarily through inventory position, demand and replenishment performance.
 
----
-
 ## Potential Next Steps
 
 Future development could extend the analysis by:
@@ -310,10 +282,6 @@ Future development could extend the analysis by:
 - Introducing supplier service-level targets and trend monitoring
 - Automating source-data refresh and exception reporting
 - Adding scenario analysis for changes in demand or supplier lead times
-
----
-
----
 
 ## Repository Structure
 
@@ -333,3 +301,32 @@ inventory-stock-planning-power-bi/
 │
 └── powerbi/
     └── inventory_stock_planning.pbix
+```
+
+## Project Reflection
+
+This project strengthened my ability to move beyond descriptive reporting and build analysis around operational decisions.
+
+The main learning was that a useful inventory dashboard should not only show stock levels. It should help distinguish between:
+
+- Genuine stock risk
+- Supplier-driven replenishment risk
+- Demand-driven pressure
+- Data-quality issues that could distort the decision
+
+The project also reinforced the importance of retaining and flagging questionable records rather than removing them without justification.
+
+From a Power BI perspective, the project developed my experience with:
+
+- Multi-fact star-schema modelling
+- Active and inactive date relationships
+- Power Query data-quality rules
+- DAX KPI development
+- Stock-cover analysis
+- Exception-based reporting
+- Dashboard interaction testing
+- Business-focused recommendation design
+
+The final dashboard was designed around a simple stakeholder workflow:
+
+**What happened? → Why did it happen? → What should we do?**
